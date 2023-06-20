@@ -18,3 +18,4 @@ def pourcentage_ressemblance(chaine1: str, chaine2: str) -> float:
     taille_max = max(len(chaine1), len(chaine2))
     pourcentage = (1 - distance / taille_max) * 100
     return pourcentage
+
