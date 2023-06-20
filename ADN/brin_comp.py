@@ -3,7 +3,7 @@ from In_silico.Module import lire_fasta, enregistrer_donnees
 
 def brin_complementaire(fasta: str, sauvegarder: bool = False) -> dict:
     """
-        Prend un chemin vers le fichier FASTA..
+        Prend un chemin vers le fichier FASTA.
         Affiche pour chaque séquence de ce fichier FASTA, le brin complémentaire de 5' à 3'.
 
         Args:
