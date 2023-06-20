@@ -70,7 +70,7 @@ def correction(fasta: str, sauvegarder: bool = False):
                 break
 
     for i in range(len(sequences_erronees)):
-        texte += f"{sequences_erronees[i]}->{sequences_corrigees[i]}\n"
+        texte += f"{sequences_erronees[i]} --------> {sequences_corrigees[i]}\n\n"
 
     if sauvegarder:
         enregistrer_donnees.enregistrer('Résultats/correction_reads.txt', texte)
