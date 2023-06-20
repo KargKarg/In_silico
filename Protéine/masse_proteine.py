@@ -1,4 +1,4 @@
-from Module import masse_aa, lire_fasta, enregistrer_donnees
+from In_silico.Module import lire_fasta, enregistrer_donnees, masse_aa
 
 
 def masse_prot(fasta: str, sauvegarder: bool = False):

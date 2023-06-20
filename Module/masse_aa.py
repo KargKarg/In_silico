@@ -10,7 +10,7 @@ def tableau_masse() -> dict:
 
     """
     tableau = {}
-    with open('../Module/table_poids_aa.txt', 'r') as filin:
+    with open('table_poids_aa.txt', 'r') as filin:
         for ligne in filin:
             tableau[ligne.split()[0]] = float(ligne.split()[1])
     return tableau

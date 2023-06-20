@@ -1,4 +1,4 @@
-from Module import lire_fasta, enregistrer_donnees
+from In_silico.Module import lire_fasta, enregistrer_donnees
 
 
 def transitions_transversions(fasta: str, sauvegarder: bool = False):
@@ -40,4 +40,4 @@ def transitions_transversions(fasta: str, sauvegarder: bool = False):
     print(texte)
 
 
-transitions_transversions('Données/test.txt')
+transitions_transversions('Données/test.txt', True)

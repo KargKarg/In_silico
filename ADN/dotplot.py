@@ -1,4 +1,5 @@
-from Module import lire_fasta
+from In_silico.Module import lire_fasta
+
 
 def dotplot(fasta: str, fenetre: int = 3, sauvegarder: bool = False):
     sequences = lire_fasta.lire(fasta)

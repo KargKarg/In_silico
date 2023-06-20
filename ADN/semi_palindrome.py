@@ -1,4 +1,4 @@
-from Module import lire_fasta, enregistrer_donnees
+from In_silico.Module import lire_fasta, enregistrer_donnees
 import brin_comp
 
 def semi_palindrome(fasta: str, sauvegarder: bool = True):

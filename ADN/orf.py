@@ -1,4 +1,4 @@
-from Module import lire_fasta, enregistrer_donnees, code_genetique
+from In_silico.Module import lire_fasta, code_genetique, enregistrer_donnees
 import brin_comp
 
 

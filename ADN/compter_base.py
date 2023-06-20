@@ -1,4 +1,4 @@
-from Module import lire_fasta, enregistrer_donnees
+from In_silico.Module import lire_fasta, enregistrer_donnees
 
 
 def compter_base(fasta: str, sauvegarder: bool = False):
