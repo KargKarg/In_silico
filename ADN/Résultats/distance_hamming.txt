@@ -1,0 +1,6 @@
+>Rosalind_52
+GAGCCTACTAACGGGAT
+x x x  x x    xx 
+CATCGTAATGACGGCCT
+>Rosalind_44
+Distance Hamming de 7
