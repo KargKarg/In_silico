@@ -3,7 +3,7 @@ from In_silico.Module import lire_fasta, enregistrer_donnees
 
 def distance_hamming(fasta: str, sauvegarder: bool = False):
     """
-                Prend un chemin vers le fichier FASTA.
+                Prend un chemin vers le fichier FASTA contenant 2 séquences.
                 Et sauvegarder qui permet de demander à l'utilisateur si il veut enregistrer le résulat.
                 Permet d'obtenir la distance Hamming entre 2 séquences en la parcourant tout le long.
 
@@ -37,7 +37,7 @@ def distance_hamming(fasta: str, sauvegarder: bool = False):
             texte += 'x'
         else:
             texte += ' '
-    texte += f'\n{sequence2}\n{ids2}\nDistance Hamming de {distance}'
+    texte += f'\n{sequence2}\n{ids2}\n\nDistance Hamming de {distance}'
 
     if sauvegarder:
         enregistrer_donnees.enregistrer('Résultats/distance_hamming.txt', texte)
