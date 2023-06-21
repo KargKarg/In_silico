@@ -1,0 +1,9 @@
+>Rosalind_2036 3.281 GGCC
+>Rosalind_4187 2.953 GGCC
+>Rosalind_9792 3.636 GGCC
+>Rosalind_2243 2.925 GGCC
+>Rosalind_2054 3.189 GGCC
+>Rosalind_1145 2.495 GGCC
+>Rosalind_4968 3.841 GGCC
+>Rosalind_2138 2.52 GGCC
+>Rosalind_2289 2.868 GGCC
