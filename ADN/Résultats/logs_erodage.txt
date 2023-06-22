@@ -1,0 +1,168 @@
+15 reads non conformes
+2917 reads conformes
+
+@:114:A016U:1:1:19183:1321 2:N:0:1:
+Qualite: 12.44
+Taille: 151pb
+
+Apres erodage:
+Qualite: 16.21
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:16701:1323 2:N:0:1:
+Qualite: 12.91
+Taille: 151pb
+
+Apres erodage:
+Qualite: 19.5
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:18968:1337 2:N:0:1:
+Qualite: 8.69
+Taille: 151pb
+
+Apres erodage:
+Qualite: 10.21
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:19236:1342 2:N:0:1:
+Qualite: 13.41
+Taille: 151pb
+
+Apres erodage:
+Qualite: 16.62
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:13602:1373 2:N:0:1:
+Qualite: 12.22
+Taille: 151pb
+
+Apres erodage:
+Qualite: 19.12
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:15312:1393 2:N:0:1:
+Qualite: 8.0
+Taille: 151pb
+
+Apres erodage:
+Qualite: 11.75
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:17065:1406 2:N:0:1:
+Qualite: 8.56
+Taille: 151pb
+
+Apres erodage:
+Qualite: 12.29
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:13852:1418 2:N:0:1:
+Qualite: 10.53
+Taille: 151pb
+
+Apres erodage:
+Qualite: 18.08
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:12958:1483 2:N:0:1:
+Qualite: 12.5
+Taille: 151pb
+
+Apres erodage:
+Qualite: 15.42
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:19855:1492 2:N:0:1:
+Qualite: 16.1
+Taille: 151pb
+
+Apres erodage:
+Qualite: 17.46
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:17863:1528 2:N:0:1:
+Qualite: 11.53
+Taille: 151pb
+
+Apres erodage:
+Qualite: 15.25
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:14618:1529 2:N:0:1:
+Qualite: 13.18
+Taille: 151pb
+
+Apres erodage:
+Qualite: 16.92
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:13134:1544 2:N:0:1:
+Qualite: 14.23
+Taille: 151pb
+
+Apres erodage:
+Qualite: 17.5
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:14418:1597 2:N:0:1:
+Qualite: 11.21
+Taille: 151pb
+
+Apres erodage:
+Qualite: 19.92
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+
+@:114:A016U:1:1:7723:1654 2:N:0:1:
+Qualite: 9.52
+Taille: 151pb
+
+Apres erodage:
+Qualite: 16.92
+Taille: 24pb
+Elle n'est pas utilisable car inferieur a la taille minimum
+
+
+

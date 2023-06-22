@@ -11,7 +11,7 @@ def graphique(fastq: str, seuil: int = 2, sauvegarder: bool = False):
 
             Args:
                 - fastq (str): La chaîne de caractères du chemin vers le fichier.
-                - seuil (int): L'entier qui correspond à la limite de valabilité.
+                - seuil (int): L'entier qui correspond à la limite de viabilité.
                 - sauvegarder (bool): Si True, le fichier est sauvegardé dans le répertoire "Résultats".
 
             Returns:
@@ -70,7 +70,7 @@ def filtre(fastq: str, seuil: int = 20, sauvegarder: bool = True):
 
                 Args:
                     - fastq (str): La chaîne de caractères du chemin vers le fichier.
-                    - seuil (int): L'entier qui correspond à la limite de valabilité.
+                    - seuil (int): L'entier qui correspond à la limite de viabilité.
                     - sauvegarder (bool): Si True, le fichier est sauvegardé dans le répertoire "Résultats".
 
                 Returns:
@@ -108,3 +108,4 @@ def filtre(fastq: str, seuil: int = 20, sauvegarder: bool = True):
 
 graphique('Données/reads1_fastq.txt', 20, True)
 filtre('Données/reads1_fastq.txt', 20, True)
+# graphique('Données/bonnes_sequences_erodage.txt', 20, True)
