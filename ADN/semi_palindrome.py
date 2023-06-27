@@ -1,7 +1,8 @@
 from In_silico.Module import lire_fasta, enregistrer_donnees
 import brin_comp
 
-def semi_palindrome(fasta: str, sauvegarder: bool = True):
+
+def semi_palindrome(fasta: str, sauvegarder: bool = True) -> None:
     """
         Prend un chemin vers le fichier FASTA.
         Affiche pour chaque séquence du FASTA, les motifs semi-palindromique et leurs positions.

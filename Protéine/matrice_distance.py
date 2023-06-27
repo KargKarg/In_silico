@@ -2,7 +2,7 @@ from In_silico.Module import lire_fasta, enregistrer_donnees, p_distance
 import numpy as np
 
 
-def matrice_distance(fasta: str, sauvegarder: bool = False):
+def matrice_distance(fasta: str, sauvegarder: bool = False) -> None:
     """
                 Permet d'obtenir la matrice des ""p distances"" entre chacunes des séquences.
                 M[i,j] = ""p distances"" entre i et j.

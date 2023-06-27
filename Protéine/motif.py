@@ -2,7 +2,7 @@ from In_silico.Module import lire_fasta, enregistrer_donnees
 import re
 
 
-def recherche_motif(fasta: str, motif: str, sauvegarder: bool = False):
+def recherche_motif(fasta: str, motif: str, sauvegarder: bool = False) -> None:
     """
         Prend un chemin vers le fichier FASTA, un motif d'intérêt.
         Affiche pour chaque séquence de ce FASTA, la position du motif.

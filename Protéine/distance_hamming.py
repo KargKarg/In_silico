@@ -1,7 +1,7 @@
 from In_silico.Module import lire_fasta, enregistrer_donnees
 
 
-def distance_hamming(fasta: str, sauvegarder: bool = False):
+def distance_hamming(fasta: str, sauvegarder: bool = False) -> None:
     """
                 Prend un chemin vers le fichier FASTA contenant 2 séquences.
                 Et sauvegarder qui permet de demander à l'utilisateur si il veut enregistrer le résulat.

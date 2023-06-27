@@ -2,7 +2,7 @@ from In_silico.Module import lire_fasta, enregistrer_donnees
 import numpy as np
 
 
-def profile(fasta: str, sauvegarder: bool = False):
+def profile(fasta: str, sauvegarder: bool = False) -> None:
     """
         Prend un chemin vers le fichier FASTA.
         Affiche la séquence profile avec l'aide d'une matrice.

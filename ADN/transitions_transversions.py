@@ -1,7 +1,7 @@
 from In_silico.Module import lire_fasta, enregistrer_donnees
 
 
-def transitions_transversions(fasta: str, sauvegarder: bool = False):
+def transitions_transversions(fasta: str, sauvegarder: bool = False) -> None:
     """
             Prend un chemin vers le fichier FASTA.
             Affiche les positions des transitions/transversions et donne ce même ratio.

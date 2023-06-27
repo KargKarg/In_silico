@@ -38,7 +38,7 @@ def probabilite(motif: str, contenu_gc: float) -> float:
                         + motif.count('T')) * math.pow(contenu_gc/2, motif.count('C')+motif.count('G'))
 
 
-def esperance(fasta: str, motif: str, sauvegarder: bool = False):
+def esperance(fasta: str, motif: str, sauvegarder: bool = False) -> None:
     """
             Prend un chemin vers le fichier FASTA et un motif pour nous donner l'espérance du motif dans la séquence.
 

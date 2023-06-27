@@ -1,7 +1,7 @@
 from In_silico.Module import lire_fasta, enregistrer_donnees
 
 
-def graphe(fasta: str, nb: int = 5, sauvegarder: bool = False):
+def graphe(fasta: str, nb: int = 5, sauvegarder: bool = False) -> None:
     """
         Prend un chemin vers le FASTA fasta, un entier nb correspondant à la taille du chevauchement considéré.
         Affiche pour chaque séquence de ce ficher FASTA, les arcs (u,v) où :

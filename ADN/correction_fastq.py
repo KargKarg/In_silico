@@ -51,7 +51,7 @@ def eroder(sequence: str, seuil: int, mini: int) -> tuple:
     return stop, moyenne(sequence[:stop])
 
 
-def correction(fastq, seuil, mini, sauvegarder):
+def correction(fastq, seuil, mini, sauvegarder) -> None:
     """
                 Prend un chemin vers le FASTQ, un seuil qui déterminera la valeur considérée et une valeur minimum
                 requise pour qu'une séquence soit aussi considérée.

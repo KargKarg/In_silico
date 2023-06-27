@@ -1,7 +1,7 @@
 from In_silico.Module import lire_fasta, enregistrer_donnees
 
 
-def epissage(fasta: str, sauvegarder: bool = False):
+def epissage(fasta: str, sauvegarder: bool = False) -> None:
     """
             Prend un fichier FASTA, avec une séquence au début et une suite de séquences qui seront des introns.
             Supprime sur la séquence d'intérêt la succession d'intron.

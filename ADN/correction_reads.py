@@ -27,7 +27,7 @@ def distance_hamming(sequence1: str, sequence2: str) -> tuple:
     return distance, indice
 
 
-def correction(fasta: str, sauvegarder: bool = False):
+def correction(fasta: str, sauvegarder: bool = False) -> None:
     """
                 Affiche les reads corrigés, lorsque la read ne possède qu'une erreur et qu'elle n'est présente
                 qu'une seule fois dans le fichier.

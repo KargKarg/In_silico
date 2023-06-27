@@ -1,7 +1,7 @@
 from In_silico.Module import lire_fasta, enregistrer_donnees, masse_aa
 
 
-def masse_prot(fasta: str, sauvegarder: bool = False):
+def masse_prot(fasta: str, sauvegarder: bool = False) -> None:
     """
             Prend un fichier FASTA.
             Affiche pour chaque séquence du FASTA, sa masse monoisotopic.

@@ -3,7 +3,7 @@ from In_silico.Module import lire_fastq, table_phred, enregistrer_donnees
 import matplotlib.pyplot as plt
 
 
-def graphique(fastq: str, seuil: int = 2, sauvegarder: bool = False):
+def graphique(fastq: str, seuil: int = 2, sauvegarder: bool = False) -> None:
     """
             Prend un chemin vers le FASTQ, un seuil qui déterminera la valeur considérée.
             Affiche la moyenne de score pour chaque base, en utilisant l'ensemble des séquences
@@ -63,7 +63,7 @@ def graphique(fastq: str, seuil: int = 2, sauvegarder: bool = False):
     plt.show()
 
 
-def filtre(fastq: str, seuil: int = 20, sauvegarder: bool = True):
+def filtre(fastq: str, seuil: int = 20, sauvegarder: bool = True) -> None:
     """
                 Prend un chemin vers le FASTQ, un seuil qui déterminera la valeur considérée.
                 Enregistre dans des fichiers séparés les séquences >= ou < au seuil.

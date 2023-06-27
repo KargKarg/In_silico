@@ -1,7 +1,7 @@
 from In_silico.Module import lire_fasta, enregistrer_donnees
 
 
-def proportion(fasta: str, sauvegarder: bool = False):
+def proportion(fasta: str, sauvegarder: bool = False) -> None:
     """
         Prend un chemin vers le fichier FASTA.
         Affiche pour chaque séquence du FASTA, les proportions en AT et GC.

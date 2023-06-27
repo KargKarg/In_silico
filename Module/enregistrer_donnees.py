@@ -1,5 +1,5 @@
 
-def enregistrer(path: str, texte: str):
+def enregistrer(path: str, texte: str) -> None:
     """
         Prend un chemin vers un fichier.
         Ecrit dans le fichier le texte passé.

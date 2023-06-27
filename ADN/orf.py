@@ -2,7 +2,7 @@ from In_silico.Module import lire_fasta, code_genetique, enregistrer_donnees
 import brin_comp
 
 
-def chercher_orf(fasta: str, sauvergarder: bool = False):
+def chercher_orf(fasta: str, sauvergarder: bool = False) -> None:
     """
         Prend un chemin vers le fichier FASTA.
         Affiche tous les ORFs des séquences dans le FASTA:

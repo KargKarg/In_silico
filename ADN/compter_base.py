@@ -1,7 +1,7 @@
 from In_silico.Module import lire_fasta, enregistrer_donnees
 
 
-def compter_base(fasta: str, sauvegarder: bool = False):
+def compter_base(fasta: str, sauvegarder: bool = False) -> None:
     """
         Prend un chemin vers le fichier FASTA.
         Affiche pour chaque séquence de ce fichier FASTA, le nombre de chaque nucléotide qu'il posséde.

@@ -1,7 +1,7 @@
 from In_silico.Module import lire_fasta, enregistrer_donnees
 
 
-def motifs_partages(fasta: str, sauvergarder: bool = False):
+def motifs_partages(fasta: str, sauvergarder: bool = False) -> None:
     """
         Prend un chemin vers le fichier FASTA.
         Affiche le plus long motif qui est présent dans toutes les séquences du FASTA.

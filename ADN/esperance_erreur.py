@@ -1,7 +1,7 @@
 from In_silico.Module import fastq_erreur, lire_fastq, enregistrer_donnees
 
 
-def esperance(fastq, sauvegarder):
+def esperance(fastq, sauvegarder) -> None:
     """
                 Prend un chemin vers le fichier FASTQ.
                 Calcul l'esperance d'erreur sur chaque séquence dans le FASTQ.

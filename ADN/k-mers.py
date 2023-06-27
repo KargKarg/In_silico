@@ -1,7 +1,7 @@
 from In_silico.Module import table_kmers, lire_fasta, enregistrer_donnees
 
 
-def kmers(fasta: str, k: int = 4, sauvegarder: bool = False):
+def kmers(fasta: str, k: int = 4, sauvegarder: bool = False) -> None:
     """
         Prend un chemin vers le fichier FASTA, un entier K correspondant à la taille du k-mers.
         Affiche pour chaque séquence de ce fichier FASTA, le nombre de combinaison du k-mers retrouvé.

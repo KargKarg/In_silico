@@ -2,7 +2,7 @@ from In_silico.Module import lire_fasta, Levenshtein
 import matplotlib.pyplot as plt
 
 
-def dotplot(fasta: str, fenetre: int, pourcentage_identite: float = 100, sauvegarder: bool = False):
+def dotplot(fasta: str, fenetre: int, pourcentage_identite: float = 100, sauvegarder: bool = False) -> None:
     """
             Prend un chemin vers le fichier FASTA.
             Une fenêtre qui glissera le long de la séquence.
