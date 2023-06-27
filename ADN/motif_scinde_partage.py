@@ -79,7 +79,7 @@ def motif_scinde_partage(fasta: str, enregistrer: bool = False) -> None:
             j -= 1
 
     sous_seq = sous_seq[::-1]
-    texte += f"{list(sequences.keys())[0]} et {list(sequences.keys())[1]} partage ce motif réparti:\n\n{sous_seq}"
+    texte += f"{list(sequences.keys())[0]} et {list(sequences.keys())[1]} partage ce motif reparti:\n\n{sous_seq}"
 
     if enregistrer:
         enregistrer_donnees.enregistrer("Résultats/motif_scinde_partage.txt", texte)
@@ -87,4 +87,4 @@ def motif_scinde_partage(fasta: str, enregistrer: bool = False) -> None:
     print(texte)
 
 
-motif_scinde_partage('Données/test.txt', False)
+motif_scinde_partage('Données/test.txt', True)
