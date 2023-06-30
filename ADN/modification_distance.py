@@ -48,6 +48,7 @@ def distance_de_modification(fasta: str, sauvergarder: bool = False) -> None:
     sequence1, sequence2 = sequences.values()
     matrice = creer_matrice(sequence1, sequence2)
     texte = ""
+    mat = ""
 
     for i in range(1, len(sequence1) + 1):
         for j in range(1, len(sequence2) + 1):
@@ -58,13 +59,16 @@ def distance_de_modification(fasta: str, sauvergarder: bool = False) -> None:
                 gauche_bas += 1
             matrice[i, j] = min(gauche, bas, gauche_bas)
 
-    for ligne in matrice:
-        texte += f"{ligne}\n"
+    for i in range(len(sequence1)+1):
+        for j in range(len(sequence2)+1):
+            mat += f"{matrice[i, j]} "
+        mat += '\n'
 
-    texte += f"\n\nLa distance de modification est de {matrice[len(sequence1), len(sequence2)]}"
+    texte += f"La distance de modification est de {matrice[len(sequence1), len(sequence2)]}"
 
     if sauvergarder:
         enregistrer_donnees.enregistrer('Résultats/modification_distance.txt', texte)
+        enregistrer_donnees.enregistrer('Résultats/matrice_modification_distance.txt', mat)
 
     print(texte)
 
