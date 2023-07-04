@@ -119,4 +119,4 @@ def lecture(matrice: np.ndarray, lignes: int, colonnes: int, sequence1: str, seq
 
     print(seq1[::-1], '\n', evenement[::-1], '\n', seq2[::-1])
 
-print(initialisation_matrice('GACTTAC', 'CGTGAATTCAT', 2, -1, -2))
+print(initialisation_matrice('ACGAA', 'AGCGA', 2, -1, -2))
