@@ -104,7 +104,7 @@ def lecture(matrice: np.ndarray, sequence1: str, sequence2: str, identite: int, 
         elif haut == direction:
             seq1 += sequence1[i-1]
             seq2 += '-'
-            evenement += ' '
+            evenement += ':'
             i -= 1
             cpt_gap += 1
 
