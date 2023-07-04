@@ -1,5 +1,5 @@
 import math
-from In_silico.Module import table_phred
+from Module import table_phred
 
 
 def proba(symbole: str) -> float:

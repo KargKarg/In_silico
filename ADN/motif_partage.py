@@ -1,4 +1,4 @@
-from In_silico.Module import lire_fasta, enregistrer_donnees
+from Module import lire_fasta, enregistrer_donnees
 
 
 def motifs_partages(fasta: str, sauvergarder: bool = False) -> None:

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bab6f07b-b1c1-4281-ae96-d1bb642810b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ADN/Données/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/Données/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/brin_comp.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/brin_comp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/compter_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/compter_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/correction_fastq.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/correction_fastq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/correction_reads.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/correction_reads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/distance_hamming.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/distance_hamming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/dotplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/dotplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/esperance_erreur.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/esperance_erreur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/fastq_controle_qualite.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/fastq_controle_qualite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/graphe_chevauchant.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/graphe_chevauchant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/k-mers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/k-mers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/matrice_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/matrice_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/modification_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/modification_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/motif.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/motif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/motif_partage.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/motif_partage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/motif_scinde_partage.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/motif_scinde_partage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/needleman_wunsch.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/needleman_wunsch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/orf.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/orf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/pattern_approximatif.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/pattern_approximatif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/proportion.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/proportion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/semi_palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/semi_palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/seq_profile.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/seq_profile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/smith_waterman.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/smith_waterman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/transcription.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/transcription.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADN/transitions_transversions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADN/transitions_transversions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/fastq_erreur.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module/fastq_erreur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/chercher_seqs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/chercher_seqs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/distance_hamming.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/distance_hamming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/dotplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/dotplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/epissage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/epissage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/masse_proteine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/masse_proteine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/matrice_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/matrice_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/modification_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/modification_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/motif.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/motif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/motif_partage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/motif_partage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/motif_scinde_partage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/motif_scinde_partage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/needleman_wunsch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/needleman_wunsch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protéine/pattern_approximatif.py" beforeDir="false" afterPath="$PROJECT_DIR$/Protéine/pattern_approximatif.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q4MttFRBbXS5LWcNuTrgLOO54w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\33699\PycharmProjects\Sine nomine vulgus\Protéine\Données" />
+      <recent name="C:\Users\33699\PycharmProjects\Sine nomine vulgus\Protéine\Résultats" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\33699\PycharmProjects\Sine nomine vulgus\Module" />
+      <recent name="C:\Users\33699\PycharmProjects\Sine nomine vulgus\Protéine" />
+      <recent name="C:\Users\33699\PycharmProjects\Sine nomine vulgus\ADN\Données" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.smith_waterman">
+    <configuration name="k-mers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sine nomine vulgus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADN/k-mers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Sine nomine vulgus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="proportion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sine nomine vulgus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADN/proportion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="smith_waterman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sine nomine vulgus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADN/smith_waterman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="table_kmers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sine nomine vulgus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module/table_kmers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transitions_transversions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sine nomine vulgus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADN/transitions_transversions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.smith_waterman" />
+        <item itemvalue="Python.transitions_transversions" />
+        <item itemvalue="Python.k-mers" />
+        <item itemvalue="Python.proportion" />
+        <item itemvalue="Python.table_kmers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bab6f07b-b1c1-4281-ae96-d1bb642810b9" name="Changes" comment="" />
+      <created>1684608618437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684608618437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

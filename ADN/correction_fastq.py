@@ -1,4 +1,4 @@
-from In_silico.Module import lire_fastq, enregistrer_donnees, table_phred
+from Module import lire_fastq, enregistrer_donnees, table_phred
 
 
 def moyenne(sequence: str) -> float:

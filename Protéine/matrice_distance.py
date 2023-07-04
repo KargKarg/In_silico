@@ -1,4 +1,4 @@
-from In_silico.Module import lire_fasta, enregistrer_donnees, p_distance
+from Module import lire_fasta, enregistrer_donnees, p_distance
 import numpy as np
 
 

@@ -1,4 +1,4 @@
-from In_silico.Module import lire_fasta, code_genetique, enregistrer_donnees
+from Module import lire_fasta, code_genetique, enregistrer_donnees
 
 
 def traduction(fasta: str, sauvegarder: bool = False) -> dict:

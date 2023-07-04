@@ -1,4 +1,4 @@
-from In_silico.Module import lire_fasta, Levenshtein
+from Module import lire_fasta, Levenshtein
 import matplotlib.pyplot as plt
 
 

@@ -1,4 +1,4 @@
-from In_silico.Module import fastq_erreur, lire_fastq, enregistrer_donnees
+from Module import fastq_erreur, lire_fastq, enregistrer_donnees
 
 
 def esperance(fastq, sauvegarder) -> None:

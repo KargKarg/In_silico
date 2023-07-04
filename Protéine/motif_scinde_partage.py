@@ -1,6 +1,6 @@
 import numpy
 import numpy as np
-from In_silico.Module import lire_fasta, enregistrer_donnees
+from Module import lire_fasta, enregistrer_donnees
 
 
 def creer_matrice(sequence1: str, sequence2: str) -> numpy.ndarray:

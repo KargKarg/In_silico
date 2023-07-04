@@ -1,4 +1,4 @@
-from In_silico.Module import lire_fasta, enregistrer_donnees
+from Module import lire_fasta, enregistrer_donnees
 import numpy as np
 
 
@@ -17,7 +17,7 @@ def initialisation_matrice(sequence1: str, sequence2: str, identite: int, substi
                 - gap (int): Le score correspondant à un événement d'indel.
 
             Returns:
-                - lecutre (function): Fonction qui donne les métriques et l'alignement.
+                - lecture (function): Fonction qui donne les métriques et l'alignement.
 
     """
     lignes, colonnes = len(sequence1)+1, len(sequence2)+1
@@ -59,7 +59,7 @@ def lecture(matrice: np.ndarray, sequence1: str, sequence2: str, identite: int, 
             Returns:
                 - matrice (numpy.ndarray): La matrice complète.
                 - texte (string): L'alignement ainsi que les métriques formatés.
-                - : Le score de l'alignement
+                - (int): Le score de l'alignement
                 - cpt_identite (int): Le nombre d'identité.
                 - cpt_substitution (int): Le nombre d'identité.
                 - cpt_gap (int): Le nombre d'identité.

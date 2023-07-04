@@ -1,4 +1,4 @@
-from In_silico.Module import lire_fasta, enregistrer_donnees
+from Module import lire_fasta, enregistrer_donnees
 
 
 def hamming(sequence1: str, sequence2: str) -> int:

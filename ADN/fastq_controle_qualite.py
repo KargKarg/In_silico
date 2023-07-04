@@ -1,5 +1,5 @@
 import math
-from In_silico.Module import lire_fastq, table_phred, enregistrer_donnees
+from Module import lire_fastq, table_phred, enregistrer_donnees
 import matplotlib.pyplot as plt
 
 

@@ -1,4 +1,4 @@
-from In_silico.Module import lire_fasta, enregistrer_donnees
+from Module import lire_fasta, enregistrer_donnees
 
 
 def epissage(fasta: str, sauvegarder: bool = False) -> None:

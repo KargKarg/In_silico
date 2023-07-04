@@ -1,4 +1,4 @@
-from In_silico.Module import uniprot, enregistrer_donnees
+from Module import uniprot, enregistrer_donnees
 
 
 def chercher_seqs(all_ids: list, sauvegarder: bool = False) -> dict:
