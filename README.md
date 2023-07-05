@@ -1,8 +1,11 @@
 ### Projet d'Algorithmique pour la Biologie
 
-Ce projet GitHub est dédié au développement d'algorithmes et de modules pour l'analyse des données biologiques. Il vise à fournir des outils ~~efficaces~~ pour travailler avec les acides nucléiques et les protéines. Le projet est organisé en trois dossiers principaux :
-
+Ce projet GitHub est dédié au développement d'algorithmes et de modules pour l'analyse des données biologiques. 
+Il vise à fournir des outils ~~efficaces~~ pour travailler avec les acides nucléiques et les protéines. 
 Chaque fonction est ~~soigneusement~~ annotée pour faciliter la compréhension de son fonctionnement et de ses paramètres d'entrée/sortie.
+Le projet est organisé en trois dossiers principaux :
+
+
 
 # Module
 
